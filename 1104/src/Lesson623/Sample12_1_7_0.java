@@ -1,4 +1,4 @@
-package Lesson623;
+package Lesson623;//410
 
 
 
@@ -12,7 +12,6 @@ class Sub extends Super{
 	public void get(int n) {
 		num = n;
 		super.num = n*100;
-		super.num = n*10000;
 	}
 }
 
